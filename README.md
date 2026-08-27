@@ -1,5 +1,5 @@
 # devils_advocate_skill_copilot
-![CI](https://github.com/DrCLMiller/devils_advocate_skill_copilot/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/DrCLMiller/devils_advocate_skill_copilot/actions/workflows/CI.yml/badge.svg)
 MS Copilot agent skill that examines an idea, strategy, framework, etc. to help identify gaps and failure point.
 
 # Devil's Advocate Copilot Agent
