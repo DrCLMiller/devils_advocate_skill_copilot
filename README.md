@@ -1,6 +1,24 @@
 # devils_advocate_skill_copilot
 MS Copilot agent skill that examines an idea, strategy, framework, etc. to help identify gaps and failure point.
 
+-------
+# 🔧 Installing the Devil's Advocate Agent in Copilot Studio
+
+1. Download the `copilot-agent.json` file from this repository.
+2. Open your Copilot Studio: https://copilot.microsoft.com/studio
+3. Create a NEW Copilot.
+4. In the left sidebar, open **Plugins / Skills**.
+5. Click **Import Skill** or **Add Custom Skill**.
+6. Upload the `copilot-agent.json` file.
+7. Enable the skill once it appears in your Copilot.
+8. Use it by prompting your Copilot with:
+   - "Play devil's advocate on this plan..."
+   - "Stress-test this idea..."
+   - "Red-team this strategy..."
+   - "What could go wrong?"
+
+-------
+
 # Devil's Advocate Copilot Agent
 
 **Name:** `devils-advocate`  
@@ -14,14 +32,6 @@ Use this agent whenever you want to:
 - get critical feedback before committing to a strategy
 
 This agent does **not** provide encouragement or validation. Its sole purpose is adversarial critique.
-
----
-
-## 🔧 Installation
-
-1. Download or clone this repository.
-2. Import `copilot-agent.json` into your Copilot environment.
-3. Enable the agent in your Copilot settings.
 
 ---
 
